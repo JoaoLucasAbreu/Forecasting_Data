@@ -1,5 +1,6 @@
 # Forecasting_Data
+## Diferent Models used
 
-1° Decision Trees
-2° Linear Regression
-3° Trends
+* Decision Trees
+* Linear Regression
+* Trends
