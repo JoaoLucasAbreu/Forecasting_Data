@@ -5,4 +5,6 @@
 * Random Forest Regression
 * Linear Regression
 * Trend
-* Seasonality
+* Season
+* Cycle
+* Hybrid (Linear Regression + XGBoost)
